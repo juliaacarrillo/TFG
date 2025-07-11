@@ -1,6 +1,6 @@
 # 📊 Código del Trabajo de Fin de Grado (TFG)
 
-Este repositorio contiene el código empleado en mi Trabajo de Fin de Grado, centrado en el análisis de datos utilizando técnicas de aprendizaje automático tanto supervisado como no supervisado.
+Este repositorio contiene el código empleado en mi Trabajo de Fin de Grado, rearlizado en Python, centrado en el análisis de datos utilizando técnicas de aprendizaje automático tanto supervisado como no supervisado.
 
 ## 🧠 Sálidas del código:
 
