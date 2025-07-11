@@ -12,7 +12,7 @@ Este repositorio contiene el código empleado en mi Trabajo de Fin de Grado, rea
 - 📈 **Análisis temporal** de los datos
 - 📊 **Visualización de datos**:
   - Gráficos de radar
-  - Gráficos de barras
+  - Gráficos de barras apiladas
   - Gráficos con los histogramas de densidad del tiempo de decisión
   - Gráficos sobre dinámica del recurso
 
